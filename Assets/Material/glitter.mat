@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: red
+  m_Name: glitter
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: bdf905a86f2225843afdfa8d1d87b604, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -129,9 +129,9 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.043396115, b: 0.043396115, a: 1}
-    - _Color: {r: 1, g: 0.043396093, b: 0.043396093, a: 1}
-    - _EmissionColor: {r: 7.6377354, g: 0.96552485, b: 0.96552485, a: 1}
+    - _BaseColor: {r: 0.043137252, g: 0.36851567, b: 1, a: 1}
+    - _Color: {r: 0.04313723, g: 0.36851564, b: 1, a: 1}
+    - _EmissionColor: {r: 1.0396916, g: 4.3472023, b: 7.6377363, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
